@@ -1,0 +1,9 @@
+site_name: WebGBAT Docs
+pages:
+- Home: index.md
+- User Guide: userGuide.md
+
+extra_css:
+    - css/main.css
+extra_javascript:
+    - js/main.js
