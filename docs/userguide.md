@@ -38,7 +38,7 @@ The users are also tasked with identifying the input columns by selecting the ap
 
 <p>A sample portion of the Page 3 – Output Select Page appears below:</p>
 
-<p>Initial display – top portion of page</p><img src="/img/pic4.png">
+<p>Initial display – top portion of page</p><img src="../img/pic4.png">
 
 <p>After some selections are made – the top portion of the page appears as follows:</p><img src="../img/pic5.png">
 
