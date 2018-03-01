@@ -50,7 +50,7 @@ The users are also tasked with identifying the input columns by selecting the ap
 <p>The user may also download/export the results to an Excel workbook by clicking on ‘Download Excel Workbook’. </p>
 
 <p>WebGBAT first shows the successful ‘Output’.</p>
-<p>See below.</p><img src="img/pic6.png">
+<p>See below.</p><img src="../img/pic6.png">
 
 <p>To see the errors, the user clicks on ‘Errors’.</p>
-<p>See sample errors below.</p><img src="img/pic7.png">
+<p>See sample errors below.</p><img src="../img/pic7.png">
