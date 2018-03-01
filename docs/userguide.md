@@ -7,7 +7,7 @@
 <h3>2. WebGBAT consists of four pages:</h3>
 <p>The following is an overview of the four pages.  Detail will appear later in this document.</p>
 
-<h3>Note: To return to the Home Page</h3> <p>at any point, click on the red ’WebGBAT’ (see image below) in the upper left hand corner of any WebGBAT screen.</p><img src="./img/pic0.png">
+<h3>Note: To return to the Home Page</h3> <p>at any point, click on the red ’WebGBAT’ (see image below) in the upper left hand corner of any WebGBAT screen.</p><img src="/img/pic0.png">
 
 <h3>a.  Homepage – Welcome, Choose a Function, Upload a File</h3>
 <p>This page allows the user to select a function, and upload an Excel spreadsheet which contains input fields that are appropriate for the function that was selected.</p>
@@ -15,7 +15,7 @@
 <p>•     Step 2: Press ‘Browse’ to find and select the Excel spreadsheet.  Double click (or press ‘Open’) on the ‘Choose File to Upload’ screen. </p>
 <p>•     Step 3: Press ‘Next’ to continue.</p>
 <p>A sample Homepage appears below.</p>
-<img src="../img/pic1.png">
+<img src="/img/pic1.png">
 
 <h3>b.  Page 2 – GridView Select Page</h3>
 <p>This page allows users to see their inputs uploaded to a GridView where the users can edit and update the input data.
@@ -25,9 +25,9 @@ The users are also tasked with identifying the input columns by selecting the ap
 <h3>Note 1: The first row of every input Excel spreadsheet must be a header row.</h3> <p>In any case, WebGBAT ignores the first row of the input spreadsheet.  The contents of the first row do appear on the GridView page but they are not processed by WebGBAT.</p>
 
 <h3>Note 2: Freeform Street names .</h3> <p>are not supported in this release of WebGBAT.  They will be supported in a future release.</p>
-<p>This is the page prior to choosing the field description</p><img src="../img/pic2.png">
+<p>This is the page prior to choosing the field description</p><img src="/img/pic2.png">
 
-<p>Below is a snapshot of a sample page after choosing the WebGBAT input field headings.</p><img src="../img/pic3.png">
+<p>Below is a snapshot of a sample page after choosing the WebGBAT input field headings.</p><img src="/img/pic3.png">
 
 <p>Note that the WebGBAT headings (which are highlighted in yellow for the document) appear above the user’s headings (from row 1 of the input Excel spreadsheet).</p>
 
@@ -40,7 +40,7 @@ The users are also tasked with identifying the input columns by selecting the ap
 
 <p>Initial display – top portion of page</p><img src="/img/pic4.png">
 
-<p>After some selections are made – the top portion of the page appears as follows:</p><img src="../img/pic5.png">
+<p>After some selections are made – the top portion of the page appears as follows:</p><img src="/img/pic5.png">
 
 <p>Note: After scrolling down, ‘Submit’ will appear at the bottom of the page.</p>
 
