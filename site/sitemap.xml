@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>/webGBATUserGuide/</loc>
+     <loc>/userguide/</loc>
      <lastmod>2018-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>/userguide/</loc>
+     <loc>/webGBATUserGuide/</loc>
      <lastmod>2018-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>

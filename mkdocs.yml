@@ -1,8 +1,8 @@
 site_name: WebGBAT Docs
 pages:
 - WebGBAT Glossary: index.md
-- WebGBAT User Guide: webGBATUserGuide.md
-- WebGOAT User Guide: userguide.md
+- WebGBAT User Guide: userguide.md
+- WebGOAT User Guide: webGBATUserGuide.md
 extra_css:
     - css/main.css
 extra_javascript:
