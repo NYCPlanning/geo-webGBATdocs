@@ -1,0 +1,19 @@
+.borderlessTable, .borderlessTable tr, .borderlessTable td, .borderlessTable th {
+  border: 0px !important;
+  background-color: transparent !important;
+}
+
+.right-align {
+  margin-left: 80%;
+}
+
+.space_sort {
+  font-size: 9px;
+  font-weight: normal;
+  color: #333;
+}
+
+
+.indent {
+  margin-left: 5%;
+}
