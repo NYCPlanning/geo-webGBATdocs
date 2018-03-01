@@ -17,3 +17,7 @@
 .indent {
   margin-left: 5%;
 }
+
+.nav bs-sidenav {
+  display: none !important;
+}
